@@ -1,0 +1,2 @@
+Based on NS3 mm-wave module, an end-to-end network is simulated. 
+To enable the interaction with an RL Agent, some work of integration is done but not updated in this repo right now. 
